@@ -1,0 +1,27 @@
+{
+  "name": "no-bro-camp",
+  "version": "1.0.0",
+  "description": "This project aims to help people to acquire knowledge needed to be able to apply for modern web development roles. Unlike 'your general web dev bootcamp' the aim is to bring more T-shape-like content. That means that the focus of this set of resources is not only on technical / coding skills. We try to also to bring more product / process oriented topics so that people that go through this 'bootcamp' do not face as steep learning curve when they join teams they want.",
+  "main": ".eleventy.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "rm -rf /docs && eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikvanek/no-bro-camp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erikvanek/no-bro-camp/issues"
+  },
+  "homepage": "https://github.com/erikvanek/no-bro-camp#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1"
+  }
+}
