@@ -39,4 +39,4 @@ Think of your project as a Lego kit. It has a base, it has different types of pi
 
 # So we know what we want to do, what next?
 You've successfully decided what you want to be working on. That's a great first step. Enjoy that for a moment!
-Now let's get a small bit of hopefully not so boring [theory](/sdlc) that should help us to organize our project better.
+Now let's get a small bit of hopefully not so boring [theory](../sdlc) that should help us to organize our project better.
