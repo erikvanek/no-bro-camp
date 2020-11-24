@@ -1,0 +1,1 @@
+- Get [Epic react](https://epicreact.dev/) training
